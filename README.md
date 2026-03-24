@@ -18,4 +18,4 @@ tsc script.ts
 3. Open index.html
 
 ## Author
-Your Name
+Caroline Nyawira
